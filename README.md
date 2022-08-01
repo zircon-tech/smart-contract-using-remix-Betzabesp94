@@ -8,6 +8,7 @@ the smart contracts controls proposals which can have a max number of options an
 Owner of the contract(deployer) can assign/ban admin roles, admin can assign voters, create proposals, add new options, open and close votations.  
 
 You can try Voting.sol at Remix IDE. 
+
 Deployed at: [Voting Deployed At Kovan](https://kovan.etherscan.io/tx/0x9edf5fe91eb0cc93095e67c780441438ddf3dfaa5a510aa9a841ff9a25761220)
 
 ### Some considerations 
@@ -47,6 +48,7 @@ los contratos inteligentes controlan las propuestas que pueden tener un número 
 El propietario del contrato (quien lo desplegó) puede asignar/prohibir roles de administrador, el administrador puede asignar votantes, crear propuestas, agregar nuevas opciones, abrir y cerrar votaciones.
 
 Puedes probar Voting.sol en Remix IDE. 
+
 Desplegado: [Voting desplegado en Kovan](https://kovan.etherscan.io/tx/0x9edf5fe91eb0cc93095e67c780441438ddf3dfaa5a510aa9a841ff9a25761220)
 
 ### Algunas consideraciones
