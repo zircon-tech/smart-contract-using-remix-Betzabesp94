@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 /* Voting System for an organization, without factory patterm, that means this contract will have
- the information of all the porposals, the voting options can be overwritten depending on
+ the information of all the porposals, the voting options can be written depending on
  proposal_id */
 
 contract Voting {
